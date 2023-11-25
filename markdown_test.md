@@ -1,5 +1,9 @@
-# My markdown test/tutorial
+# GitHub commands and Test for Markdown
 
-## a subtopic
+## some Git commands
+
+>```
+>git init
+>```
 
 
